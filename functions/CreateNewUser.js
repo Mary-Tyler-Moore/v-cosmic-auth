@@ -7,7 +7,7 @@ const transporter = nodemailer.createTransport({
    service: 'SendinBlue', // no need to set host or port etc.
    auth: {
        user: 'tmoorewebdesigns@gmail.com',
-       pass: 'Z5Lk9BwWhcftGAIE'
+       pass: ''
    }
 });
 

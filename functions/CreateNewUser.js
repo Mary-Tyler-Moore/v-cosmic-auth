@@ -6,8 +6,8 @@ const database = require('../src/cosmic');
 const transporter = nodemailer.createTransport({
    service: 'SendinBlue', // no need to set host or port etc.
    auth: {
-       user: 'aaronvail14@gmail.com',
-       pass: 'A0EDmTa1f3BhOSVr'
+       user: 'tmoorewebdesigns@gmail.com',
+       pass: 'Z5Lk9BwWhcftGAIE'
    }
 });
 
